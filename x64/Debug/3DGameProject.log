@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\hp\Downloads\template-2.1\Model3D.hpp(35,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hp\Downloads\template-2.1\parametric-3d\ParametricLine.hpp(30,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\parametric-3d\ParametricLine.hpp(43,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(66,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(83,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(104,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(109,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(109,32): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(110,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(110,32): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(132,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\parametric-3d\Parametric3DShape.hpp(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Downloads\template-2.1\main.cpp(33,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(35,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(40,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(42,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(48,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(50,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(56,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(58,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(64,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(66,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(72,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(73,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(82,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(83,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(84,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(85,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(86,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(87,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(88,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(93,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(94,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(95,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(96,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(97,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(98,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(99,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(104,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(105,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(106,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(107,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(108,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(113,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(114,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(119,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(120,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(121,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(122,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(123,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(128,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(129,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(178,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(179,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(232,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\main.cpp(260,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\main.cpp(261,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\main.cpp(266,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\main.cpp(267,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\template-2.1\main.cpp(297,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\template-2.1\main.cpp(298,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DGameProject.vcxproj -> C:\Users\hp\Desktop\Dersler\CS405\3DGameProject\x64\Debug\3DGameProject.exe
